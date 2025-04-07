@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @livingforjesus
-- 👀 I’m interested in full-stack development, robotics software development, embedded software and backend
-- 🌱 I’m currently learning robotics software development
+- I build cool software and hardware products for sharing the gospel @ radical evangelists
+- I also build the best POD software @ riptechnologies
+- Expertise in Web, Mobile, Desktop, Embedded, System, Robotics and more
 - 📫 My old GitHub profile is [here](https://github.com/psecuresystem)
 
 <!---
