@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @livingforjesus
-- I build cool software and hardware products for sharing the gospel @ radical evangelists
+- Christian Missionary @ radicalevangelists spreading the gospel with tech + other tools
 - I also build the best POD software @ riptechnologies
-- Expertise in Web, Mobile, Desktop, Embedded, System, Robotics and more
+- Final year student @ NOUN
 - 📫 My old GitHub profile is [here](https://github.com/psecuresystem)
 
 <!---
